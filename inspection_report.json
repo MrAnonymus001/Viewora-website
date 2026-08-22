@@ -1,0 +1,43 @@
+{
+  "bodyStyles": {
+    "background-color": "rgb(249, 249, 245)",
+    "color": "rgb(46, 42, 38)",
+    "font-family": "Poppins, sans-serif",
+    "font-size": "15px",
+    "line-height": "22.5px"
+  },
+  "colors": [
+    "rgb(0, 0, 0)",
+    "rgb(46, 42, 38)",
+    "rgb(255, 255, 255)",
+    "rgb(79, 178, 143)",
+    "rgb(248, 248, 246)",
+    "rgb(88, 96, 93)",
+    "rgb(97, 94, 90)",
+    "rgb(81, 86, 84)",
+    "rgb(46, 42, 37)",
+    "rgb(248, 240, 223)"
+  ],
+  "bgColors": [
+    "rgb(249, 249, 245)",
+    "rgb(79, 178, 143)",
+    "rgb(255, 255, 255)",
+    "rgba(255, 255, 255, 0)",
+    "rgba(255, 255, 255, 0.03)",
+    "rgba(255, 255, 255, 0.5)",
+    "rgb(236, 240, 234)",
+    "rgba(255, 248, 183, 0.8)",
+    "rgb(220, 243, 235)",
+    "rgb(248, 240, 223)",
+    "rgb(97, 94, 90)",
+    "rgb(46, 42, 37)",
+    "rgb(242, 242, 239)",
+    "rgb(248, 248, 244)"
+  ],
+  "fontFamilies": [
+    "\"Times New Roman\"",
+    "Poppins, sans-serif",
+    "Poppins, Arial, Helvetica, sans-serif"
+  ],
+  "structure": "Section 1: gdpr-cookie-banner BOTTOM_LEFT legacy-dark popup full-styling\nSection 2: Index-page Index-page--has-image\n  H1: Share keys with your  cleaners\nSection 3: Index-page menu-stop\n  H1: Use our KeyNest Points to store your keys\nSection 4: Index-page\nSection 5: Index-page\nSection 6: Index-page\n  H2: Have a question? Get in touch\nSection 7: Index-page\nSection 8: Index-page\n"
+}
